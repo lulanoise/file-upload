@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    username: root
+    password: 524013659?Ln
+  jpa:
+    hibernate:
+      ddl-auto:
+  h2:
+    console:
+      enabled: true
+
+fileRepositoryFolder: /Users/lulanoise/Desktop/fileRepositoryFolder
